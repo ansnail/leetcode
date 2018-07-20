@@ -8,6 +8,7 @@
 - 参考资料：一些关于这个题目比较好的资料，供自己回顾和大家参考
 - 全部用java语言实现
 
-|     序号     |  leetcode地址 |   难度  | 参考方案   |    参考资料     |
-|:-----------:|:--------------|:------:|:---------:|:-------------|
-|1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|简单|[LeetCode_1.java](https://github.com/weiyanjie/lintcode/blob/master/src/top/androidman/lintcode/LintCode_14.java)|[二分查找](http://blog.csdn.net/guoziqing506/article/details/50957775)|
+|     序号     |  leetcode地址 |   难度  | 参考方案   |  参考资料  |
+|:-----------:|:--------------|:------:|:---------|:-------------|
+|1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|简单|[LeetCode_1.java](https://github.com/weiyanjie/leetcode/blob/master/src/leetcode/LeetCode_1.java)|暂无|
+|2|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/)|简单|[LeetCode_167.java](https://github.com/weiyanjie/leetcode/blob/master/src/leetcode/LeetCode_167.java)|暂无|
