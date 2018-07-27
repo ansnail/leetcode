@@ -17,7 +17,7 @@ public class LeetCode_653 {
 	 */
 	public static void main(String[] args) {
 		
-
+		System.out.println(Integer.MIN_VALUE);
 	}
 
 	

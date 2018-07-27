@@ -1,14 +1,5 @@
 package leetcode;
 
-class ListNode {
-	int val;
-	ListNode next;
-
-	ListNode(int x) {
-		val = x;
-	}
-}
-
 public class LeetCode_2 {
 
 	public static void main(String[] args) {
