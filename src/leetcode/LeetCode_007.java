@@ -1,6 +1,6 @@
 package leetcode;
 
-public class LeetCode_7 {
+public class LeetCode_007 {
 
 	public static void main(String[] args) {
 		System.out.println(reverse(1534236469));

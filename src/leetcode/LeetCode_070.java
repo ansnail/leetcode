@@ -1,6 +1,6 @@
 package leetcode;
 
-public class LeetCode_70 {
+public class LeetCode_070 {
 
 	public static void main(String[] args) {
 		System.out.println(climbStairs(101));

@@ -3,7 +3,7 @@ package leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LeetCode_3 {
+public class LeetCode_003 {
 
 	public static void main(String[] args) {
 		System.out.println(lengthOfLongestSubstring("otodinokzfhycbuwygqsofctljsgezbvsryceomdvvdyzzuxfnrwstpgejmlkpgegggnuusrswprxmqdzhzrcqzgcltmcz"));

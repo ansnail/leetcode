@@ -3,7 +3,7 @@ package leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LeetCode_1 {
+public class LeetCode_001 {
 
 	/**
 	 * @param args

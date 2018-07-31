@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class LeetCode_20 {
+public class LeetCode_020 {
 
 	public static void main(String[] args) {
 		System.out.println(isValid("()[]{}"));

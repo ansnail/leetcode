@@ -1,6 +1,6 @@
 package leetcode;
 
-public class LeetCode_8 {
+public class LeetCode_008 {
 
 	public static void main(String[] args) {
 		System.out.println(myAtoi2("+0  78"));

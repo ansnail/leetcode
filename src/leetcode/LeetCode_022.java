@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.ArrayList;
 
-public class LeetCode_22 {
+public class LeetCode_022 {
 	
 	public static void main(String[] args) {
 		System.out.println(generateParenthesis(3));

@@ -1,6 +1,6 @@
 package leetcode;
 
-public class LeetCode_92 {
+public class LeetCode_092 {
 
 	public static void main(String[] args) {
 		ListNode node = Utils.createNode();

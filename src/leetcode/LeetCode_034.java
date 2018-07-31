@@ -1,6 +1,6 @@
 package leetcode;
 
-public class LeetCode_34 {
+public class LeetCode_034 {
 
 	public static void main(String[] args) {
 		int[] nums = { 10,10 };

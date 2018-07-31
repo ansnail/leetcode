@@ -1,7 +1,7 @@
 package leetcode;
 
 
-public class LeetCode_28 {
+public class LeetCode_028 {
 
 	public static void main(String[] args) {
 		System.out.println(strStr("hello", "ll"));
